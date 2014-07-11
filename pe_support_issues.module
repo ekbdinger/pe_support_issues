@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the PE Support Issues feature.
+ */
+
+include_once 'pe_support_issues.features.inc';
